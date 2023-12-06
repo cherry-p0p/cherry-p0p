@@ -16,7 +16,7 @@
 
 </div>
 
-<div align="center"><h2>💻 Riwon's Tech Blog</h2></div>
+<div align="center"><h2>💻 riwon's Tech Blog</h2></div>
 <div align="center">
    <a href="https://velog.io/@cherrypop">
       <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
