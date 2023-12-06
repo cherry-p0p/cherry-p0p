@@ -9,14 +9,15 @@
 ---
 
 
+<div align="center"><h2>💡 My Git Stats</h2></div>
 <div align="center">
 
 ![cherry-p0p's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherry-p0p&include_all_commits=true&theme=ambient_gradient&hide_border=true&count_private=true)
 
-
 </div>
+<br>
 
-<div align="center"><h2>💻 riwon's Tech Blog</h2></div>
+<div align="center"><h2>💻 My Tech Blog</h2></div>
 <div align="center">
    <a href="https://velog.io/@cherrypop">
       <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
@@ -64,5 +65,13 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/>
 </div>
-
 <br>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start; gap: 40px;">
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" width="100" height="100" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="100" height="100" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="100" height="100" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="100" height="100" />
+  </div>
+</div>
