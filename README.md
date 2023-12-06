@@ -75,7 +75,3 @@
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="100" height="100" />
   </div>
 </div>
-
-<br>
-
-![snake gif](https://github.com/cherry-p0p/cherry-p0p/blob/output/github-contribution-grid-snake.gif)
