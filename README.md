@@ -11,7 +11,7 @@
 ### ✏️ Experience
 - 피로그래밍 19기 (2023.06 - 2023.08)
 - 피로그래밍 20기 운영진 교육팀 (2023.09 - 2024.02)
-- UMC GCU 6th iOS 트랙 (2024.03 - ongoing)
+- UMC GCU 6th iOS 트랙 (2024.03 - ing)
 
 ### 📞 Contact
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_wooon_ee/)
