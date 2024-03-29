@@ -1,17 +1,14 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:8ec5fc&height=150&section=header&text=Riwon%20Chae&fontColor=645394&fontSize=60&animation=fadeIn&fontAlignY=55)
+# Hi there, I'm Riwon Chae 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcherry-p0p&count_bg=%23ACACFF&title_bg=%23C235AF&icon=googlefit.svg&icon_color=%23FFFAFA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
-
----
+### 🏫 Education
+- Gachon univ major in computer science (2022 ~ ing)
 
 ### ✏️ Experience
 - 피로그래밍 19기 (2023.06 - 2023.08)
 - 피로그래밍 20기 운영진 교육팀 (2023.09 - 2024.02)
-- UMC GCU 6th iOS 트랙 (2024.03 - ing)
+- UMC GCU 6th iOS Challenger (2024.03 - ing)
 
 ### 📞 Contact
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_wooon_ee/)
