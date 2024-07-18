@@ -6,7 +6,7 @@
 
 ### 📊 Statistics 📊
 <div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=cherry-p0p&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=cherry-p0p&show_icons=true&count_private=true&theme=holi" width = "49%" height="130%" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=co3678" width="42%" height="100%"/>
 </div>
 <div>
