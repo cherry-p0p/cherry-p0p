@@ -9,18 +9,7 @@
 <br>
 
 ## 🏫 Education
-<table>
-  <tr>
-    <th>🎓 University</th>
-    <th>💻 Major</th>
-    <th>📅 Period</th>
-  </tr>
-  <tr>
-    <td><b>Gachon University</b></td>
-    <td>Computer Science</td>
-    <td>2022.03 ~ Present</td>
-  </tr>
-</table>
+<b>👩🏻‍💻 Gachon univ major in computer science (2022.03 ~ ing)</b>
 
 <br>
 
