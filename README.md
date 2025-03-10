@@ -85,15 +85,6 @@
 
 <br>
 
-## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />
-</p>
-
-<br>
-
 ## 📫 Contact
 <p>
   <a href="mailto:cherrypop3678@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
