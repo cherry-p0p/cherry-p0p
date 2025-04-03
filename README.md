@@ -30,9 +30,14 @@
     <th>⏳ Period</th>
   </tr>
   <tr>
+    <td><b><a href="https://www.sopt.org/">SOPT</a></b></td>
+    <td>Plan(PM) Part</td>
+    <td>2025.03 ~ ing</td>
+  </tr>
+  <tr>
     <td><b><a href="https://gdg.community.dev/gdg-on-campus-gachon-university-seongnam-south-korea/">GDG on Campus Gachon University</a></b></td>
     <td>Tech Core Member</td>
-    <td>2024.07 ~ 2025.06</td>
+    <td>2024.07 ~ ing</td>
   </tr>
   <tr>
     <td><b><a href="https://umc.makeus.in/">University MakeUs Challenge(UMC) in GCU 7th</a></b></td>
